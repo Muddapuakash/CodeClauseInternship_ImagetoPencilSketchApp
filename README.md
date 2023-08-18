@@ -49,10 +49,3 @@ This Jupyter Notebook application allows you to convert an input image to a penc
 
 7. The notebook will also display a side-by-side comparison of the original image and the sketch.
 
-## Example
-
-Here is an example of the original image and the resulting pencil sketch:
-
-|              Original Image              |                 Pencil Sketch                  |
-| :--------------------------------------: | :--------------------------------------------: |
-| ![Original Image](Examples/Original.jpg) | ![Pencil Sketch](Examples/Original_sketch.png) |
